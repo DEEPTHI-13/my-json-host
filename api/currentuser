@@ -1,0 +1,43 @@
+{
+   "email": "lxrmarketplace@nx.com",
+   "first_name": "LXR",
+   "last_name": "Marketplace",
+   "company_name": "Netelixir",
+   "email_confirmation_date": "2024-03-23T08:41:34Z",
+   "terms_accepted": true,
+   "product_tour": 2,
+   "website_name": "American Frames",
+   "password_updated": "2025-03-23T15:28:59.327998Z",
+   "is_active": true,
+   "mfa_enabled": false,
+   "clients": [
+       {
+           "client_id": 1,
+           "client_name": "American Frames",
+           "properties": [
+               {
+                   "property_id": 545,
+                   "property_name": "American Frames",
+                   "last_clustered": "2024-04-03T09:18:00.400851Z",
+                   "date_ready": "2024-03-23T09:06:59.348680Z",
+                   "is_active": true,
+                   "date_created": "2024-03-23T08:37:19.853837Z"
+               }
+           ]
+       },
+       {
+           "client_id": 3,
+           "client_name": "LXR Marketplace",
+           "properties": [
+               {
+                   "property_id": 101,
+                   "property_name": "LXR Marketplace",
+                   "last_clustered": "2025-03-24T15:15:42.998612Z",
+                   "date_ready": "2024-03-23T09:06:59.358700Z",
+                   "is_active": true,
+                   "date_created": "2024-03-23T08:42:44.456748Z"
+               }
+           ]
+       }
+   ]
+}
